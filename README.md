@@ -1,5 +1,5 @@
 # ⚛️ 7DaysOfCode - JavaScript
-São 7dias de desafios em JavaScript, cada dia um desafio. NESTE 01 DIA refere-se a tipos de variáveis. Na hora de comparar os valores de duas variáveis entre si. MEU COMPROMETIMENTO E DEDICAÇÃO com o 1 dia está aqui! 
+São 7dias de desafios em JavaScript, cada dia um desafio. NESTE 01 DIA refere-se a tipos de variáveis. Na hora de comparar os valores de duas variáveis entre si. 
 <b>
 
 # 📘 1 Dia de Desafio - o que fazer
