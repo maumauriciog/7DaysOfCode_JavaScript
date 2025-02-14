@@ -1,6 +1,6 @@
 # ⚛️ 7DaysOfCode - JavaScript
 São 7dias de desafios em JavaScript, cada dia um desafio. NESTE 01 DIA refere-se a tipos de variáveis. Na hora de comparar os valores de duas variáveis entre si. 
-<b>
+<b> #7DaysOfCode
 
 # 📘 1 Dia de Desafio - o que fazer
 Neste primeiro dia, precisei reescrever um código de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros. Basta você clicar com o botão direito do mouse na página, selecionar a opção “Inspecionar”, ir na aba “Console” e lá estará o resultado do código. Bem simples!
